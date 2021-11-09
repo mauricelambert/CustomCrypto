@@ -4,7 +4,7 @@
 
 ## Description
 
-This package implements tools to build your custom ciper.
+This package implements tools to build your custom cipher.
 
 ## Requirements
 

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 ###################
-#    This package implements tools to build your custom ciper
+#    This package implements tools to build your custom cipher
 #    Copyright (C) 2021  Maurice Lambert
 
 #    This program is free software: you can redistribute it and/or modify
@@ -20,7 +20,7 @@
 ###################
 
 """
-This file implements tools to build your custom ciper.
+This file implements tools to build your custom cipher.
 
 >>> CustomCrypto(xor).dynamic_key_1(b'00', [ord('0')])
 [0, 48]
@@ -47,13 +47,13 @@ b'\\xff\\x00\\x0fZ\\xaa'
 ~# python3 -m doctest -v CustomCrypto.py
 """
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 __author__ = "Maurice Lambert"
 __author_email__ = "mauricelambert434@gmail.com"
 __maintainer__ = "Maurice Lambert"
 __maintainer_email__ = "mauricelambert434@gmail.com"
 __description__ = """
-This package implements tools to build your custom ciper.
+This package implements tools to build your custom cipher.
 """
 license = "GPL-3.0 License"
 __url__ = "https://github.com/mauricelambert/CustomCrypto"

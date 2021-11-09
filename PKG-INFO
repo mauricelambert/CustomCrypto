@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: CustomCrypto
-Version: 0.0.1
-Summary:  This package implements tools to build your custom ciper. 
+Version: 0.0.2
+Summary:  This package implements tools to build your custom cipher. 
 Home-page: https://github.com/mauricelambert/CustomCrypto
 Author: Maurice Lambert
 Author-email: mauricelambert434@gmail.com
@@ -31,7 +31,7 @@ License-File: LICENSE.txt
 
 ## Description
 
-This package implements tools to build your custom ciper.
+This package implements tools to build your custom cipher.
 
 ## Requirements
 
